@@ -7,7 +7,7 @@ import Footer from "../components/Footer";
 
 export default function HomePage() {
   return (
-    <main className="text-gray-900">
+    <main className="overflow-hidden">
       <Hero />
       <FeatureSection />
       <ColorSelector />
